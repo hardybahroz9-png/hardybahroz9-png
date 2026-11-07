@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hardy Maroof 👋
 
-<!--
-**hardybahroz9-png/hardybahroz9-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Center Operations & Commissioning Engineer
+A results-driven engineer combining extensive expertise in critical facility infrastructure with advanced training in cybersecurity. Specialized in optimizing, commissioning, and securing industrial control systems and data center environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise
+
+- **Critical Infrastructure & Operations:** Industrial Cooling, Chiller Plant Operations, Air Handling Units (AHUs), Control Valves, and Power Distribution Systems.
+- **Automation & Monitoring:** Building Management Systems (BMS), PLC Controls, and sequence of operations validation.
+- **Facility Commissioning:** Level 4 (Functional Performance Testing) and Level 5 (Integrated Systems Testing) execution, MOP/SOP alignment, and CxAlloy tracking.
+- **Infrastructure Security:** Industrial control system security, infrastructure hardening, and risk mitigation.
+
+---
+
+### 🛡️ Certifications & Education
+
+- **CompTIA Security+** 
+- **M.S. in Cybersecurity** 
+- **B.S. in Mechanical Engineering**
+
+---
+
+### 🚀 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/hardy-maroof-359a30177](https://linkedin.com)
+- **Email:** hardybahroz9@gmail.com
+
